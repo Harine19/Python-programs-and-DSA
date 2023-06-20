@@ -1,5 +1,5 @@
-#https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1
-
+#link to question - https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1
+#GeeksForGeeks Problem of the Day (POTD) - 19/06/23
 class Solution:
     #Function to rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space.
     def arrange(self,arr, n): 
