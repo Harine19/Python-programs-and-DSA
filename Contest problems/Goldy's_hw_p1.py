@@ -1,3 +1,6 @@
+#link to question - https://www.hackerrank.com/contests/arrays-i-1/challenges/goldys-homework/problem
+#Cognizance CP POD Q1
+
 import math
 t=int(input())
 sumarr=[]
