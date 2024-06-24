@@ -1,0 +1,5 @@
+def factorialNumbers(n):
+    if n<=1: return 1
+    return n*factorialNumbers(n-1)
+
+print(factorialNumbers(5))
